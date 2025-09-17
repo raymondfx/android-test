@@ -1,10 +1,8 @@
-# Emirates Loyalty Points Android App
+# Android App
 
 A modern Android application built with Jetpack Compose that demonstrates secure authentication patterns, network monitoring, and comprehensive testing strategies.
 
-## 📱 Overview
 
-This app implements a loyalty points system for Emirates with a focus on security, user experience, and maintainable architecture. The current implementation provides a complete authentication flow with advanced security features.
 
 ## ✨ Features
 
@@ -240,10 +238,3 @@ The project includes comprehensive unit tests covering:
 - **API Integration**: Real backend service connection
 - **CI/CD**: Automated testing and deployment
 
-## 📄 License
-
-This project is developed for Emirates and follows internal coding standards and security practices.
-
----
-
-For technical questions or contributions, please contact the development team.
